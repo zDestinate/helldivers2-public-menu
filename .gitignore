@@ -1,0 +1,12 @@
+# User files
+*.user
+
+# Build path
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+
+# Visual Studio cache dir
+.vs/
