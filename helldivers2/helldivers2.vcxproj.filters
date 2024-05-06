@@ -214,11 +214,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="libs\VMProtect\VMProtectSDK64.lib">
-      <Filter>Resource Files\VMProtect</Filter>
-    </Library>
-  </ItemGroup>
-  <ItemGroup>
     <ResourceCompile Include="helldivers2.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>

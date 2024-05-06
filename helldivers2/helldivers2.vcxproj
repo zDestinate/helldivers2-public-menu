@@ -405,9 +405,6 @@
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="libs\VMProtect\VMProtectSDK64.lib" />
-  </ItemGroup>
-  <ItemGroup>
     <ResourceCompile Include="helldivers2.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
