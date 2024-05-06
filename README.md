@@ -1,4 +1,5 @@
 # Helldivers2 Public Menu
+This project has been discontinued and will no longer be updated.
 
 ### Compile Instruction
 1) Download and compile Minhook then put `libMinHook.x64.lib` in `libs/MinHook/libMinHook.x64.lib`
